@@ -1,0 +1,15 @@
+*.o
+*.dSYM
+*.pyc
+.fuse*
+*.a
+*.so
+libjcr*
+jcr
+
+# OS Generated #
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
